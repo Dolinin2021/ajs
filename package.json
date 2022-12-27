@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/Dolinin2021/ajs/issues"
   },
-  "homepage": "https://github.com/Dolinin2021/ajs#readme"
+  "homepage": "https://github.com/Dolinin2021/ajs#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.7",
+    "@babel/preset-env": "^7.20.2",
+    "babel-loader": "^9.1.0",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
 }
